@@ -1,4 +1,10 @@
-## Hi there 👋
+# SteelsOfLiquid
+
+Greetings, this is my GitHub thing, where you can find the source code for several of my projects. This includes OpenSteel/OS, Serotonin, side projects, the samples from my videos, and more. Many key repositories which are things I view as "directly tethered" to myself start with the prefix `steelsofliquid_` and contain a basic name.
+
+## OpenSteel/OS
+
+This is honestly my crown jewel. This is an OS project which, while broken to a degree at the moment, is an x86-32 OS project based off of and building heavily off of the Write Your Own Operating System tutorial. It aims to one day provide a *unified* and *stable* free and open source operating system as an alternative to Microsoft Windows and macOS.
 
 <!--
 **steelsofliquid/steelsofliquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
